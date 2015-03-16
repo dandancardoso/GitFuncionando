@@ -12,7 +12,7 @@ class ImprimirOla{
     
     func imprimir()
     {
-        println("Ola galera!!!")
+        println("POLÊMICA")
         
     }
     
