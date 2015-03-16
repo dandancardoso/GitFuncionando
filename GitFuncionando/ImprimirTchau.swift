@@ -14,4 +14,9 @@ class ImprimirTchau{
     {
         println("Tchau!!!")
     }
+    
+    func imprimir2()
+    {
+        println("Uhuul!")
+    }
 }
