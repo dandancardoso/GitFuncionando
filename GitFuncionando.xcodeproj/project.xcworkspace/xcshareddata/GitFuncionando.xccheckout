@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F57ADE1A-39DE-43BD-A23A-1D0621846705</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GitFuncionando</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E91F4CF2197547F1BD1FCEFEDCDFC9276785169E</key>
+		<string>https://github.com/dandancardoso/GitFuncionando.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GitFuncionando.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E91F4CF2197547F1BD1FCEFEDCDFC9276785169E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dandancardoso/GitFuncionando.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E91F4CF2197547F1BD1FCEFEDCDFC9276785169E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E91F4CF2197547F1BD1FCEFEDCDFC9276785169E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GitFuncionando</string>
+		</dict>
+	</array>
+</dict>
+</plist>
