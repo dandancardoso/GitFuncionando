@@ -16,9 +16,11 @@ class ViewController: UIViewController {
         
                 var ola = ImprimirOla();
                 var tchau = ImprimirTchau();
+                var daniel = ImprimirOla();
         
                 ola.imprimir()
                 tchau.imprimir()
+                daniel.imprimir()
         
         
     }
